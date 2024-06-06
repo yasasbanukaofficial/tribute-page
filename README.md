@@ -1,2 +1,11 @@
-# tribute-page
-This a web project which is an easy one that I have developed in order to receive a certificate from freeCodeCamp and this also will be proof for my developing skills which is not fully learned yet. And also hope this helps to any new learner who learns developing using HTML and CSS.
+# Tribute Page 
+
+Hello there 👋
+This is a web page that I've done inorder to receive a web certificate from a site called freecodecamp.org and this is one of the projects that I should complete.
+
+# Reasons for uploading 👇;
+1. Inorder to showcase my developing skills.
+2. As a proof that I've done page inorder to hone my own skills in developing skills.
+3. As a example for new beginners to make their own pages.
+
+Thank You 🙏 
